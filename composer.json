@@ -1,5 +1,5 @@
 {
-    "name": "mixpanel-php-extended",
+    "name": "proudsugar/mixpanel-php-extended",
     "description": "Extensions for the Mixpanel PHP library",
     "keywords": [
         "mixpanel",
