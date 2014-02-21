@@ -1,0 +1,25 @@
+{
+    "name": "mixpanel-php-extended",
+    "description": "Extensions for the Mixpanel PHP library",
+    "keywords": [
+        "mixpanel",
+        "mixpanel php"
+    ],
+    "homepage": "http://www.proudsugar.com/blog/mixpanel-php-extended",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Luis Merino <luis@proudsugar.com>",
+            "homepage": "http://www.proudsugar.com/"
+        }
+    ],
+    "require": {
+        "php": ">=5.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "3.7.*"
+    },
+    "autoload": {
+        "files": ["MixpanelExtended.php"]
+    }
+}
